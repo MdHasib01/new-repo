@@ -1,0 +1,13 @@
+.dummy {
+  width: 200px;
+  height: 200px;
+  background-color: rebeccapurple;
+  margin-top: 20px;
+}
+#swiming {
+  position: relative;
+}
+.ring {
+  position: absolute;
+  bottom: 0;
+}
